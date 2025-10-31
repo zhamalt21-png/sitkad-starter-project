@@ -1,0 +1,6 @@
+body{font-family:Inter, Arial, sans-serif;margin:0;padding:0;background:#f8fafc;color:#0f172a}
+header{background:#064e3b;color:#facc15;padding:12px}
+.container{display:flex;height:calc(100vh - 60px)}
+.sidebar{width:220px;background:#fff;padding:12px;border-right:1px solid #e6e9ef}
+.main{flex:1;padding:16px;overflow:auto}
+button{padding:8px 10px;border-radius:6px;border:0;background:#2563eb;color:#fff;cursor:pointer}
